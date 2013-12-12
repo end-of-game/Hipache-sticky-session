@@ -1,5 +1,7 @@
-Hipache-sticky-session : a fork of Hipache with sticky session
-==============================================================
+Hipache-sticky-session : 
+========================
+a fork of Hipache with sticky session
+-------------------------------------
 
 Forked by [Treeptik](http://treeptik.fr/)
 
